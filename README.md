@@ -3,7 +3,6 @@ I'm Maninder, a full stack webdeveloper with a focus on front-end JavaScript and
 
 The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, SQL, Next.js, Node and Express. I use code not only to do my day-to-day job, but also to solve everyday problems I come across.
 
-!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://avatars.githubusercontent.com/u/90073393?v=4" alt="Profile views" align='right'/> <a href="https://github.com/github4maninder"> </a>
 <br/>
@@ -15,25 +14,6 @@ The technologies I work with are JavaScript, HTML and CSS with a focus on the fr
 <hr/>
 Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MaramHarsha&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
-
-## 🛠️ My favorite tools for Hacking (Penetration)
-
-+ Nmap
-+ BurpSuit
-+ Sublist3r
-+ Shodan.io
-+ lazys3 (My favourite By Nahamsec)
-+ etc
 
 ### 👨‍💻 Programming languages
 
