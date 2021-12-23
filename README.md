@@ -1,4 +1,4 @@
-<img align="center" 
+<img height="100" width="100"
 src= "https://res.cloudinary.com/de9lja37o/image/upload/q_100,r_5/a_0/v1640216963/github%20banner.jpg" alt="Maninder Sidhu "
 	   >
 	    
