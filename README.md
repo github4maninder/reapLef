@@ -1,4 +1,4 @@
-<img src= "picture_compress (1).png">
+[![Maninder Sidhu - Software Engineer in Toronto](https://github.com/github4maninder/reapLef/blob/9d02ed11cca47fbd623548871711944262b73966/picture_compress%20(1).png)]
 	    
 <h1 align="center">
 I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
