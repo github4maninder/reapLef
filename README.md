@@ -67,9 +67,6 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 </p>
 
 ## 📊 Github stats
-
-
-<!-- https://github.com/sisodiya2421 -->
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="https://github.com/github4maninder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
