@@ -74,3 +74,5 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 	<a href="https://github.com/github4maninder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:maninder.email@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
+<hr/>
