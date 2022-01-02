@@ -47,6 +47,7 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 </p>
 
 <hr/>
+
 ### 💻 Software and tools
 
 <p>
