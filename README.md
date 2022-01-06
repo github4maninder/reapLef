@@ -70,13 +70,9 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 </p>
 
 <center>
-  <table>
-	  
- <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=radical&hide_border=true&langs_count=10" /> 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=radicalhide_border=true&show_icons=true" />
-	  
-	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=gotham&show_icons=true" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&langs_count=10" /></td>
+  <table>	  
+	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=gotham&show_icons=true" /> </td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&langs_count=10" /> </td>
 	  </table>  
 </center>  
 
