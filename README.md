@@ -71,7 +71,7 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github4maninder&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=radical&hide_border=true&langs_count=10
+<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
